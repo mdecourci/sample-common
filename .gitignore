@@ -1,0 +1,28 @@
+*.DS*
+*.class
+*.sonar
+
+# IDEA excluded
+.idea/
+
+# Eclipse excluded
+.settings/
+.classpath
+.project
+
+*.iws
+target/
+build/
+.gradle
+proxy/
+*.iml
+mem.*.db
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+/bin/
+
+.vagrant/
